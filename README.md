@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1QgPnZ49)  
-  
-**NOTE: This project is made in compliance with the Machine Problem component of the CS 12 course of Computer Science in UP Diliman.**
+**NOTE: Originally created as a school project for CS 12 of Computer Science in UP Diliman, adapted and maintained as part of my personal portfolio.**
 
 # BATTLE CITY: Fantasy Themed
 ![](https://github.com/UPD-CS12-232/cs12232mp1-sir-kevin-failures/blob/main/Images/Main%20Menu.png)
