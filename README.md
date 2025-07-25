@@ -1,4 +1,4 @@
-**NOTE: Originally created as a school project for CS 12 of Computer Science in UP Diliman, adapted and maintained as part of my personal portfolio.**
+**NOTE: Originally created as a school pair project for CS 12 of Computer Science in UP Diliman, adapted and maintained as part of my personal portfolio.**
 
 # BATTLE CITY: Fantasy Themed
 ![](https://github.com/ivanahron/Battle-City-Remake/blob/main/Images/Main%20Menu.png)
